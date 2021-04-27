@@ -1,0 +1,48 @@
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\bin\Debug\PBL3_ChuongTrinhQuanLyTiemSach.exe.config
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\bin\Debug\PBL3_ChuongTrinhQuanLyTiemSach.exe
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\bin\Debug\PBL3_ChuongTrinhQuanLyTiemSach.pdb
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.csprojAssemblyReference.cache
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmDangNhap.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.Properties.Resources.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.csproj.GenerateResource.cache
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.csproj.CoreCompileInputs.cache
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.exe
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.pdb
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmChinh.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBoPhanKeToan.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmThongKeHoaDon.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBoPhanNhanSu.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPNSDangKyNV.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPNSQuanLyNV.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPKTThongKeDoanhThu.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPKTThongKeSachBanRa.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBoPhanThuNgan.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPTNLapHoaDonTT.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPTNQuanLyHoaDon.resources
+E:\University File\Second year\Kỳ 2\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmBPTNQuanLyKH.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.csprojAssemblyReference.cache
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.GUI.FormOfEmployeeDepartment.frmManageStaff.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmMain_Warehouse.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmMain_Employee.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmCreateOrder.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmManageOrder.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmManageBook.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmAddStaff.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmManageCustomer.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmMain_Accounting.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmStaticRevenue.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmStatisticBill.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.frmStatisticBook.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.GUI.FormOfCashierDepartment.frmCreateBill.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.GUI.FormOfCashierDepartment.frmMain_Cashier.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.GUI.FormOfCashierDepartment.frmManageBill.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.GUI.Login.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.GUI.Main.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.Properties.Resources.resources
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.csproj.GenerateResource.cache
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.csproj.CoreCompileInputs.cache
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.exe
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\obj\Debug\PBL3_ChuongTrinhQuanLyTiemSach.pdb
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\bin\Debug\PBL3_ChuongTrinhQuanLyTiemSach.exe.config
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\bin\Debug\PBL3_ChuongTrinhQuanLyTiemSach.exe
+E:\DaiHoc\PBL3\Đồ án PBL3 - Công nghệ phần mềm\Đồ án PBL3 - Công nghệ phần mềm\PBL3_ChuongTrinhQuanLyTiemSach\PBL3_ChuongTrinhQuanLyTiemSach\bin\Debug\PBL3_ChuongTrinhQuanLyTiemSach.pdb
